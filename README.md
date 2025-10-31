@@ -85,26 +85,24 @@ The purpose of this project is to bridge the gap between traditional learning an
 
 ## Application Highlights  
 
-<img width="2243" height="920" alt="Home Page" src="https://github.com/user-attachments/assets/499bc380-edf1-4e9d-8445-1d2510eadc08" /> 
+<img alt="Home Page" src="https://github.com/user-attachments/assets/499bc380-edf1-4e9d-8445-1d2510eadc08" /> 
 
 
-<img width="2232" height="994" alt="Cources" src="https://github.com/user-attachments/assets/eda03dc9-ef62-4caf-b8f4-2c6b4ce023ed" />  
+<img alt="Cources" src="https://github.com/user-attachments/assets/eda03dc9-ef62-4caf-b8f4-2c6b4ce023ed" />  
 
-<img width="2197" height="882" alt="lesson page" src="https://github.com/user-attachments/assets/2c5952f2-1ac6-448e-8227-f197b5d4a75b" />  
+<img alt="lesson page" src="https://github.com/user-attachments/assets/2c5952f2-1ac6-448e-8227-f197b5d4a75b" />  
 
-<img width="1531" height="904" alt="About Page" src="https://github.com/user-attachments/assets/df549fb1-99bf-44da-8e77-52cf1510595b" />
+<img alt="About Page" src="https://github.com/user-attachments/assets/df549fb1-99bf-44da-8e77-52cf1510595b" />
 
-<img width="1531" height="904" alt="Profile" src="https://github.com/user-attachments/assets/68b24893-7ec7-40d9-a503-3e6d3788ec24" />
+<img alt="Profile" src="https://github.com/user-attachments/assets/68b24893-7ec7-40d9-a503-3e6d3788ec24" />
 
 ---
 
 ## Website Highlights  
 
-<img width="2213" height="902" alt="Website Page 1" src="https://github.com/user-attachments/assets/00e58248-d3c4-4ae4-8f33-aa9fc7c2fdcf" />  
+<img alt="Website Page 1" src="" />  
 
-<img width="2213" height="917" alt="Website Page 2" src="https://github.com/user-attachments/assets/1aa0fcef-bf64-48ca-bd9b-0c730d5f6e2f" />  
 
-<img width="2226" height="912" alt="Website Page 3" src="https://github.com/user-attachments/assets/9feaf916-9044-42cf-bf04-75d9879218a3" />  
 
 ---
 
