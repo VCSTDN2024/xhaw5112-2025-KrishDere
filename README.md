@@ -1,1 +1,7 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/nMdoCiK7)
+## CodeCore
+## Krish Nikhil Dere
+## ST10490556
+## Empowering the Nation Website and Mobile Application 
+## The mobile Application is on the Main Branch 
+## The Website is on the Branch Name "Website" 
+## the "CodeCore Website" Folder on this branch contains the website 
