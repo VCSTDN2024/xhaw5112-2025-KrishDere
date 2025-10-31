@@ -100,7 +100,17 @@ The purpose of this project is to bridge the gap between traditional learning an
 
 ## Website Highlights  
 
-<img alt="Website Page 1" src="" />  
+<img width="1918" height="905" alt="Screenshot 2025-10-31 234458" src="https://github.com/user-attachments/assets/c6d3e982-5ac0-4e7c-9483-05c8f5188a90" />
+
+<img width="1919" height="898" alt="Screenshot 2025-10-31 234549" src="https://github.com/user-attachments/assets/c7d2e3a2-2d62-4ce3-9c9e-7a9ef68532ab" />
+
+<img width="1919" height="898" alt="Screenshot 2025-10-31 234607" src="https://github.com/user-attachments/assets/429f01aa-06cc-4856-ba55-02d008c480b9" />
+
+<img width="1919" height="901" alt="Screenshot 2025-10-31 234622" src="https://github.com/user-attachments/assets/9bd2e89f-8e69-42e8-b8dd-2ebaae2caefb" />
+ 
+<img width="1918" height="901" alt="Screenshot 2025-10-31 234641" src="https://github.com/user-attachments/assets/7238f3bf-a7cd-499d-8684-a3678177b2d8" />
+
+<img width="1919" height="901" alt="Screenshot 2025-10-31 234652" src="https://github.com/user-attachments/assets/88637e80-d687-4eba-9b02-6b234ac93a09" />
 
 
 
